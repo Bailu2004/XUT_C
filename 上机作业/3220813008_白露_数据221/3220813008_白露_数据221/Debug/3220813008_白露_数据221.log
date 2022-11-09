@@ -1,0 +1,6 @@
+﻿  Work.cpp
+D:\大数据\C语言\上机作业\3220813008_白露_数据221\3220813008_白露_数据221\Work.cpp(421,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\大数据\C语言\上机作业\3220813008_白露_数据221\3220813008_白露_数据221\Work.cpp(423,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\大数据\C语言\上机作业\3220813008_白露_数据221\3220813008_白露_数据221\Work.cpp(425,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\大数据\C语言\上机作业\3220813008_白露_数据221\3220813008_白露_数据221\Work.cpp(434): warning C4715: “square”: 不是所有的控件路径都返回值
+  3220813008_白露_数据221.vcxproj -> D:\大数据\C语言\上机作业\3220813008_白露_数据221\Debug\3220813008_白露_数据221.exe
